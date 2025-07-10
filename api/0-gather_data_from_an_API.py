@@ -1,4 +1,21 @@
 #!/usr/bin/python3
+"""
+This script uses a REST API to retrieve and display the TODO list progress
+of a given employee by their ID.
+
+Usage:
+    ./0-gather_data_from_an_API.py <employee_id>
+
+The script outputs:
+    - The employee's name
+    - The number of completed tasks vs total tasks
+    - The titles of completed tasks (one per line, tab-indented)
+
+Requirements:
+    - The 'requests' module must be installed.
+    - The employee ID must be a valid integer.
+"""
+
 import requests
 import sys
 
