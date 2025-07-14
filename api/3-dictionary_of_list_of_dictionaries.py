@@ -1,4 +1,6 @@
- tasks from all employees from JSONPlaceholder
+#!/usr/bin/python3
+"""
+Fetches tasks from all employees from JSONPlaceholder
 and exports them to a single JSON file in the specified format
 """
 
