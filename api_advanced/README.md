@@ -7,5 +7,5 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the PEP 8 style
 All your files must be executable
 The length of your files will be tested using wc
-All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
+IAll your modules should have a documentation (python3 -c 'print
 You must use the Requests module for sending HTTP requests to the Reddit API
